@@ -17,7 +17,7 @@
 Devitools é uma iniciativa open source de crição de tecnologias que simplifiquem em certo aspecto criação de software, proporcionando um ambiente low code para uso de várias tecnologias
 
 Use o quadro abaixo para acompanhar o andamento das tarefas do projeto
-#### [Quadro Kanban](https://github.com/devitools/roadmap/projects/1)
+#### [Quadro Kanban](https://github.com/orgs/devitools/projects/1)
 
 
 
